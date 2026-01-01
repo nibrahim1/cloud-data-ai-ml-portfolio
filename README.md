@@ -14,3 +14,33 @@ Model training, tuning, and evaluation metrics
 Intro to pipelines, ETL, and cloud workflows (Azure)
 
 Growth path toward ML engineering & MLOps
+
+# ☁️ Cloud, Data & AI Engineering Portfolio — Nebil Ibrahim
+
+### Transitioning from Enterprise Solutions to Modern Engineering
+**Current Focus:** AI/ML, Data Engineering, Cloud Workflows, MLOps (future)
+
+This portfolio documents my hands-on development, experimentation, and skill-building within **Machine Learning, Data Engineering, and Cloud Engineering**. It reflects my progression from learning → building → deploying real solutions over time.
+
+---
+
+## 📌 Skill Areas Demonstrated
+
+**Machine Learning & Data Science**
+- Python • Pandas • NumPy • Scikit-learn
+- Supervised learning & model evaluation
+- Experiment tracking and iteration
+
+**Data Engineering**
+- ETL / pipeline fundamentals
+- SQL data modeling, cleaning & transformation
+- Preparing data for machine learning workflows
+
+**Cloud Engineering**
+- Azure fundamentals for ML/Data workflows
+- Deployment planning (future MLOps pipeline)
+
+---
+
+## 📂 Repository Structure
+
